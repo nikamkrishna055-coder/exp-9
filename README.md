@@ -1,4 +1,4 @@
-Experiment 11 – Monitoring using Node Exporter, Prometheus and Grafana
+Experiment 9 – Monitoring using Node Exporter, Prometheus and Grafana
 
 Tools Used:
 - Docker
